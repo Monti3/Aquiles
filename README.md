@@ -65,6 +65,44 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 - Optimización del consumo energético para aumentar la autonomía.
 - Pruebas con usuarios reales para mejorar la experiencia de uso.
 
+## Integrantes:
+### Juan Montilla
+* 📷 Instagram: 
+* 📧 Mail: 
+* 🏆 LinkedIn: 
+* 🌐 Github: 
+
+
+### Santiago Alberto Zacarías
+* 📷 Instagram: https://www.instagram.com/santizaca_/
+* 📧 Mail: sanfran120771@gmail.com
+* 🏆 LinkedIn: https://www.linkedin.com/in/santiago-zacar%C3%ADas-3a3978319/
+* 🌐 Github: https://github.com/lean1712flores
+
+### Juan Cruz Isola
+* 📷 Instagram: 
+* 📧 Mail: 
+* 🏆 LinkedIn: 
+* 🌐 Github: 
+  
+### Rodrigo Alexis Lin
+* 📷 Instagram: 
+* 📧 Mail: 
+* 🏆 LinkedIn: 
+* 🌐 Github: 
+
+### Mauricio Contardi Trillo
+* 📷 Instagram: 
+* 📧 Mail: 
+* 🏆 LinkedIn: 
+* 🌐 Github: 
+  
+### Misael Castillo
+* 📷 Instagram: 
+* 📧 Mail: 
+* 🏆 LinkedIn: 
+* 🌐 Github: 
+
 ---
 
 AQUILES es más que un proyecto tecnológico: es una solución que redefine la movilidad humana. ¡Sé parte de la revolución! 💪🛠️
