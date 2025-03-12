@@ -69,3 +69,9 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 
 AQUILES es más que un proyecto tecnológico: es una solución que redefine la movilidad humana. ¡Sé parte de la revolución! 💪🛠️
 
+
+## 📜 Licencia
+
+Este proyecto está licenciado bajo la [MIT License](LICENSE).  
+© 2025 Aquiles.corp.
+
