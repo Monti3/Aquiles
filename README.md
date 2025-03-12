@@ -92,10 +92,10 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 * 🌐 Github: [alexisrodrigolin](https://github.com/alexisrodrigolin)
 
 ### Mauricio Contardi Trillo
-* 📷 Instagram: 
-* 📧 Mail: 
+* 📷 Instagram: https://www.instagram.com/mauritrillo_/
+* 📧 Mail: trillocontardimauricio@gmail.com
 * 🏆 LinkedIn: 
-* 🌐 Github: 
+* 🌐 Github: https://github.com/MauricioTrillo
   
 ### Misael Castillo
 * 📷 Instagram: 
