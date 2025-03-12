@@ -83,7 +83,7 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 * 📷 Instagram: [@juanisola_](https://www.instagram.com/juanisola_/)
 * 📧 Mail: juancruz.isola2209@gmail.com
 * 🏆 LinkedIn: 
-* 🌐 Github: [juanisola_] (https://github.com/juanisola)
+* 🌐 Github: [juanisola_](https://github.com/juanisola)
   
 ### Rodrigo Alexis Lin
 * 📷 Instagram: 
