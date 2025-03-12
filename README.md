@@ -77,7 +77,7 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 * 📷 Instagram: https://www.instagram.com/santizaca_/
 * 📧 Mail: sanfran120771@gmail.com
 * 🏆 LinkedIn: https://www.linkedin.com/in/santiago-zacar%C3%ADas-3a3978319/
-* 🌐 Github: https://github.com/lean1712flores
+* 🌐 Github: [ZaCoso](https://github.com/ZaCoso)
 
 ### Juan Cruz Isola
 * 📷 Instagram: [@juanisola_](https://www.instagram.com/juanisola_/)
