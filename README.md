@@ -67,10 +67,10 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 
 ## Integrantes:
 ### Juan Montilla
-* 📷 Instagram: 
-* 📧 Mail: 
+* 📷 Instagram: [@montillajuanignacio](https://www.instagram.com/montillajuanignacio/)
+* 📧 Mail: montillajuanignacio@gmail.com
 * 🏆 LinkedIn: 
-* 🌐 Github: 
+* 🌐 Github: [@monti3](github.com/monti3)
 
 
 ### Santiago Alberto Zacarías
