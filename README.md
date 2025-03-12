@@ -74,9 +74,9 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 
 
 ### Santiago Alberto Zacarías
-* 📷 Instagram: https://www.instagram.com/santizaca_/
+* 📷 Instagram: [@santizaca_](https://www.instagram.com/santizaca_/)
 * 📧 Mail: sanfran120771@gmail.com
-* 🏆 LinkedIn: https://www.linkedin.com/in/santiago-zacar%C3%ADas-3a3978319/
+* 🏆 LinkedIn: [Santiago Zacarias](https://www.linkedin.com/in/santiago-zacar%C3%ADas-3a3978319/)
 * 🌐 Github: [ZaCoso](https://github.com/ZaCoso)
 
 ### Juan Cruz Isola
@@ -92,10 +92,10 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 * 🌐 Github: [alexisrodrigolin](https://github.com/alexisrodrigolin)
 
 ### Mauricio Contardi Trillo
-* 📷 Instagram: https://www.instagram.com/mauritrillo_/
+* 📷 Instagram: [@mauritrillo_](https://www.instagram.com/mauritrillo_/)
 * 📧 Mail: trillocontardimauricio@gmail.com
 * 🏆 LinkedIn: 
-* 🌐 Github: https://github.com/MauricioTrillo
+* 🌐 Github: [Mauriciotrillo](https://github.com/MauricioTrillo)
   
 ### Misael Castillo
 * 📷 Instagram: 
