@@ -86,10 +86,10 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 * 🌐 Github: [juanisola_](https://github.com/juanisola)
   
 ### Rodrigo Alexis Lin
-* 📷 Instagram: 
-* 📧 Mail: 
+* 📷 Instagram: [@alexisrodrigolin](https://www.instagram.com/alexisrodrigolin/)
+* 📧 Mail: alexisrodrigolin@gmail.com
 * 🏆 LinkedIn: 
-* 🌐 Github: 
+* 🌐 Github: [alexisrodrigolin](https://github.com/alexisrodrigolin)
 
 ### Mauricio Contardi Trillo
 * 📷 Instagram: 
