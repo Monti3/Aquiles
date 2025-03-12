@@ -98,10 +98,10 @@ Si deseas colaborar con el desarrollo de AQUILES, puedes contribuir con:
 * 🌐 Github: [Mauriciotrillo](https://github.com/MauricioTrillo)
   
 ### Misael Castillo
-* 📷 Instagram: 
-* 📧 Mail: 
-* 🏆 LinkedIn: 
-* 🌐 Github: 
+* 📷 Instagram: [@misaacas](https://www.instagram.com/misaacas/)
+* 📧 Mail: misacastillo08@gmail.com
+* 🏆 LinkedIn: [Castillo Misael](https://www.linkedin.com/in/misael-castillo-0a52a1314/)
+* 🌐 Github: [misaacastillo](https://github.com/misaacastillo)
 
 ---
 
