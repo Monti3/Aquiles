@@ -35,6 +35,8 @@ AQUILES es un exoesqueleto de asistencia motora diseñado para mejorar la movili
   - Programación en C/C++ y Python
   - Algoritmos de Machine Learning para optimización de asistencia
   - Integración con microcontroladores RP2040
+  - Flutter para la aplicación móvil
+  - Firebase para la base de datos 
   
 ## 💸 Costos Estimados
 
